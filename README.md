@@ -1,11 +1,9 @@
 🔍 Exploratory Data Analysis — Insurance Death Claims (2018–2022)
-https://img.shields.io/badge/Tool-Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Library-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/Library-Seaborn-4C72B0?style=for-the-badge
-Show Image
-Show Image
-Show Image
-Show Image
+
+![MySQL](https://img.shields.io/badge/Tool-PHYTHON-4479A1?style=for-the-badge&logo=Python&logoColor=white)
+![Data](https://img.shields.io/badge/Data%20Source-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Insurance-orange?style=for-the-badge)
 
 📌 Project Overview
 This project presents a comprehensive Exploratory Data Analysis (EDA) on Insurance Death Claims data covering the period 2018 to 2022, using Python.
@@ -87,8 +85,7 @@ Insights & Conclusions — Data driven findings and observations
 
 Clone the repository:
 
-bashgit clone https://github.com/Poorani-best/Exploratory_Analysis_Insurance
-.git
+bashgit clone https://github.com/Poorani-best/Exploratory_Analysis_Insurance.git
 
 Install required libraries:
 
