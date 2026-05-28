@@ -6,8 +6,11 @@
 ![Domain](https://img.shields.io/badge/Domain-Insurance-orange?style=for-the-badge)
 
 📌 Project Overview
+
 This project presents a comprehensive Exploratory Data Analysis (EDA) on Insurance Death Claims data covering the period 2018 to 2022, using Python.
 The dataset consists of two CSV files covering both Individual and Group insurance categories. The analysis explores claim patterns, settlement trends, and insurer-wise and region-wise performance across a 5-year period.
+
+
 
 🎯 Objective
 To analyze insurance death claims data and answer key business questions such as:
@@ -29,10 +32,14 @@ Data includes: Year, Insurer Name, Insurance Category, Region, Claims Made, Clai
 
 
 📊 Analysis Coverage
+
 AreaDetails📅 Year-wise AnalysisClaim and settlement trends from 2018 to 2022🏢 Individual vs GroupComparison of claims across insurance categories🗺️ AnalysisClaims and settlements🏦 Insurer-wise AnalysisPerformance comparison across insurance companies✅ Settlement AnalysisSettlement ratio and pending claims analysis
 
+
 🛠️ Libraries & Tools Used
+
 LibraryPurposePandasData loading, merging CSVs, cleaning & analysisNumPyNumerical computations and statistical operationsMatplotlibBar charts, histograms and trend visualizationsSeabornBox plots, correlation heatmap & statistical plots
+
 
 📈 Visualizations Created
 
@@ -43,21 +50,24 @@ LibraryPurposePandasData loading, merging CSVs, cleaning & analysisNumPyNumerica
 
 
 📁 Files in This Repository
-insurance-eda-python/
-│
-├── 📓 EDAProject.ipynb    # GoogleCoLab Notebook with full analysis
-├── 📸 images/                              # Visualization outputs
-│   ├── plot_02_industry_trend.png
-│   ├── plot_03_covid_impact.png
-│   └── plot_05_heatmap.png
-└── 📄 README.md                            # Project documentation
+
+| File | Description |
+|------|-------------|
+| 📓 Insurance_Death_Claims_EDA.ipynb | GoogleCoLab Notebook with full analysis |
+| 📸 images/ | Visualization output images |
+|     plot_02_industry_trend.png |
+|     plot_03_covid_impact.png |
+|     plot_05_heatmap.png |
+|     plot_06_repudiation.png |
+| 📄 README.md | Project documentation |
+
 
 📸 Project Visualizations
 
 📌 Add your visualization screenshots here
-!(images/plot_02_industry_trend.png)
-!(images/plot_03_covid_impact.png)
-!(images/plot_05_heatmap.png)
+![Trend Chart](Charts/plot_02_industry_trend.png)
+![Bar Chart](Charts/plot_03_covid_impact.png)
+![HEatmap](Charts/plot_05_heatmap.png)
 
 
 💡 Key Insights from the Analysis
@@ -84,16 +94,14 @@ Insights & Conclusions — Data driven findings and observations
 📓 How to Run This Project
 
 Clone the repository:
-
 bashgit clone https://github.com/Poorani-best/Exploratory_Analysis_Insurance.git
 
 Install required libraries:
-
 bashpip install pandas numpy matplotlib seaborn 
 
 Open the GoogleColab Notebook:
-
 EDAProject notebook EDAProject.ipynb
+
 
 🧠 Skills Demonstrated
 
@@ -107,10 +115,14 @@ Business Insight Generation
 
 
 👩‍💻 About Me
+
 I am a Post Graduate with professional work experience, currently upskilling in Data Analytics.
 This project is part of my portfolio as I transition into a Data Analyst role.
+
 🔗 LinkedIn: [https://www.linkedin.com/in/poorani-kumar-945ab03b3/]
+
 📧 Email: [poorani.in@gmail.com]
+
 
 🤝 Let's Connect!
 If you're a recruiter or fellow data enthusiast, feel free to reach out.
