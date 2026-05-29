@@ -1,18 +1,18 @@
-🔍 Exploratory Data Analysis — Insurance Death Claims (2018–2022)
+## 🔍 **Exploratory Data Analysis — Insurance Death Claims (2018–2022)**
 
 ![MySQL](https://img.shields.io/badge/Tool-PHYTHON-4479A1?style=for-the-badge&logo=Python&logoColor=white)
 ![Data](https://img.shields.io/badge/Data%20Source-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Insurance-orange?style=for-the-badge)
 
-📌 Project Overview
+### 📌 **Project Overview**
 
 This project presents a comprehensive Exploratory Data Analysis (EDA) on Insurance Death Claims data covering the period 2018 to 2022, using Python.
 The dataset consists of two CSV files covering both Individual and Group insurance categories. The analysis explores claim patterns, settlement trends, and insurer-wise and region-wise performance across a 5-year period.
 
 
+### 🎯 **Objective**
 
-🎯 Objective
 To analyze insurance death claims data and answer key business questions such as:
 
 How have death claims trended between 2018 and 2022?
@@ -22,7 +22,7 @@ How do different insurers perform in terms of claim settlement?
 What patterns exist between claims made and claims settled?
 
 
-📂 Dataset Details
+### 📂 **Dataset Details**
 
 Source: Kaggle — Publicly available Insurance Death Claims Dataset
 Files Used: 2 CSV files
@@ -31,17 +31,17 @@ Categories: Individual Insurance & Group Insurance
 Data includes: Year, Insurer Name, Insurance Category, Region, Claims Made, Claims Settled, Settlement Amount
 
 
-📊 Analysis Coverage
+### 📊 **Analysis Coverage**
 
 AreaDetails📅 Year-wise AnalysisClaim and settlement trends from 2018 to 2022🏢 Individual vs GroupComparison of claims across insurance categories🗺️ AnalysisClaims and settlements🏦 Insurer-wise AnalysisPerformance comparison across insurance companies✅ Settlement AnalysisSettlement ratio and pending claims analysis
 
 
-🛠️ Libraries & Tools Used
+### 🛠️ **Libraries & Tools Used**
 
 LibraryPurposePandasData loading, merging CSVs, cleaning & analysisNumPyNumerical computations and statistical operationsMatplotlibBar charts, histograms and trend visualizationsSeabornBox plots, correlation heatmap & statistical plots
 
 
-📈 Visualizations Created
+### 📈 **Visualizations Created**
 
 📊 Bar Charts — Year-wise, region-wise and insurer-wise claim comparisons
 📉 Histograms — Distribution of claims made and settled
@@ -49,20 +49,22 @@ LibraryPurposePandasData loading, merging CSVs, cleaning & analysisNumPyNumerica
 🌡️ Correlation Heatmap — Relationships between numerical variables
 
 
-📁 Files in This Repository
+### 📁 **Files in This Repository**
 
 | File | Description |
 |------|-------------|
 | 📓 Insurance_Death_Claims_EDA.ipynb | GoogleCoLab Notebook with full analysis |
-| 📸 images/ | Visualization output images |
-|     plot_02_industry_trend.png |
-|     plot_03_covid_impact.png |
-|     plot_05_heatmap.png |
-|     plot_06_repudiation.png |
+| 📊 EDA_Python_Presentation.pptx | Presentation on Insurance Death Claim Analysis
+| 📸 images:- | Visualization output images |
+| &emsp;&emsp; plot_02_industry_trend.png |
+| &emsp;&emsp; plot_03_covid_impact.png |
+| &emsp;&emsp; plot_05_heatmap.png |
+| &emsp;&emsp; plot_06_repudiation.png |
 | 📄 README.md | Project documentation |
 
+<br>
 
-📸 Project Visualizations
+### 📸 **Project Visualizations**
 
 📌 Add your visualization screenshots here
 ![Trend Chart](Charts/plot_02_industry_trend.png)
@@ -70,7 +72,7 @@ LibraryPurposePandasData loading, merging CSVs, cleaning & analysisNumPyNumerica
 ![HEatmap](Charts/plot_05_heatmap.png)
 
 
-💡 Key Insights from the Analysis
+### 💡 **Key Insights from the Analysis**
 
 📅 Death claims show a significant spike in 2021 likely due to pandemic impact
 👥 Group insurance accounts for a higher volume of claims compared to individual insurance
@@ -80,7 +82,7 @@ LibraryPurposePandasData loading, merging CSVs, cleaning & analysisNumPyNumerica
 📊 Strong positive correlation between claims made and claims settled
 
 
-🔄 EDA Steps Followed
+### 🔄 **EDA Steps Followed**
 
 Data Loading — Loaded and merged 2 CSV files using Pandas
 Data Understanding — Shape, columns, data types and summary statistics
@@ -91,30 +93,30 @@ Multivariate Analysis — Correlation heatmap and group comparisons
 Insights & Conclusions — Data driven findings and observations
 
 
-📓 How to Run This Project
+### 📓 **How to Run This Project**
 
-Clone the repository:
+1. Clone the repository:
 bashgit clone https://github.com/Poorani-best/Exploratory_Analysis_Insurance.git
 
-Install required libraries:
+2. Install required libraries:
 bashpip install pandas numpy matplotlib seaborn 
 
-Open the GoogleColab Notebook:
+3. Open the GoogleColab Notebook:
 EDAProject notebook EDAProject.ipynb
 
 
-🧠 Skills Demonstrated
+### 🧠 **Skills Demonstrated**
 
-Exploratory Data Analysis (EDA)
-Merging & Cleaning Multiple Datasets
-Statistical Analysis
-Data Visualization
-Python Programming
-Insurance Domain Knowledge
-Business Insight Generation
+ - Exploratory Data Analysis (EDA) <br>
+ - Merging & Cleaning Multiple Datasets <br>
+ - Statistical Analysis <br>
+ - Data Visualization <br>
+ - Python Programming <br>
+ - Insurance Domain Knowledge <br>
+ - Business Insight Generation 
 
 
-👩‍💻 About Me
+### 👩‍💻 **About Me**
 
 I am a Post Graduate with professional work experience, currently upskilling in Data Analytics.
 This project is part of my portfolio as I transition into a Data Analyst role.
@@ -124,7 +126,8 @@ This project is part of my portfolio as I transition into a Data Analyst role.
 📧 Email: [poorani.in@gmail.com]
 
 
-🤝 Let's Connect!
+### 🤝 **Let's Connect!** 
+
 If you're a recruiter or fellow data enthusiast, feel free to reach out.
 I am actively looking for Data Analyst opportunities!
 
