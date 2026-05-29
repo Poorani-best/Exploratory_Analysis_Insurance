@@ -1,6 +1,6 @@
 ## 🔍 **Exploratory Data Analysis — Insurance Death Claims (2018–2022)**
 
-![MySQL](https://img.shields.io/badge/Tool-PHYTHON-4479A1?style=for-the-badge&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/Tool-PYTHON-4479A1?style=for-the-badge&logo=Python&logoColor=white)
 ![Data](https://img.shields.io/badge/Data%20Source-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Insurance-orange?style=for-the-badge)
